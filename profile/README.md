@@ -92,3 +92,4 @@ to run this project locally, you need to have the following tools installed on y
 ### License
 
 Distributed under the GPL-3.0 License. See [LICENSE](LICENSE) for more information.
+
