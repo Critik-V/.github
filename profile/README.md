@@ -47,10 +47,8 @@ Cette approche collaborative vous permet d'améliorer votre CV de manière confi
 | <img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="20"/>                                                                           | [Postgresql](https://www.postgresql.org/) - Database                  |
 | <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png" width="20"/>                                                | [Docker](https://www.docker.com/) - Containerization                  |
 | <img src="https://user-images.githubusercontent.com/11247099/145112184-a9ff6727-661c-439d-9ada-963124a281f7.png" width="20"/>                                   | [Vitest](https://vitest.dev/) - Test Tool                             |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width="20"/>                                  | [Jenkins](https://www.jenkins.io/) - CI/CD                            |
-| <img src="https://static-00.iconduck.com/assets.00/terraform-icon-1803x2048-hodrzd3t.png" width="20"/>                                                          | [Terraform](https://www.terraform.io/) - Infrastructure as Code (IaC) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/2048px-Ansible_logo.svg.png" width="20"/>                                  | [Ansible](https://www.ansible.com/) - Infrastructure as Code (IaC)    |
-| <img src="https://static-00.iconduck.com/assets.00/general-awscloud-icon-2048x2048-3trjae80.png" width="20"/>                                                   | [Amazon Web Service](https://aws.amazon.com/) - Hosting               |
+| <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="20"/>                                                                              | [Github-Actions](https://github.com/features/actions) - CI/CD Tool    |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/DigitalOcean_logo.svg/800px-DigitalOcean_logo.svg.png" width="20"/>                         | [Digital Ocean](https://www.digitalocean.com/) - Hosting              |
 
 ## Local Development
 
