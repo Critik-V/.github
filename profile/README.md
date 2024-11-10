@@ -1,4 +1,4 @@
-![Critik-V logo](./docs/assets/BANNER_README.png)
+![Critik-V logo](./BANNER_README.png)
 
 <h2 align="center">
 Critik-V (Open-source project)
